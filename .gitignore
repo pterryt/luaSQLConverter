@@ -1,0 +1,10 @@
+/config.ini
+/out/
+/.vs/
+/cmake-build-debug/
+/cmake-build-debug-visual-studio/
+/cmake-build-release/
+/cmake-build-release-visual-studio/
+/output/output.lua
+/input/GlobalStrings.lua
+/input/GlueStrings.lua
